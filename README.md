@@ -71,6 +71,7 @@ print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ```
 
 # Output : 
+![image](https://github.com/Hezron-lix/Poisson_distribution/assets/139331337/95b79c82-1c82-48e3-9374-255ac814b4ed)
 
 
 
